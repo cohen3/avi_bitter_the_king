@@ -1,0 +1,1 @@
+You cant start a task in your life without the blessing of the king.
