@@ -8,8 +8,8 @@ setup(
     description='Gives you a blessing of the king',  # Give a short description about your library
     author='Elad Cohen',  # Type in your name
     author_email='eladc5492@gmail.com',  # Type in your E-Mail
-    url='https://github.com/dvircohen/basad',  # Provide either the link to your github or to your website
-    download_url='https://github.com/dvircohen/basad/archive/v_012.tar.gz',  # I explain this later on
+    url='https://github.com/cohen3/avi_bitter_the_king',  # Provide either the link to your github or to your website
+    download_url='https://github.com/cohen3/avi_bitter_the_king/archive/1.1.tar.gz',  # I explain this later on
     keywords=['judaism', 'basad', 'BH'],  # Keywords that define your package best
     install_requires=[  # I get to this in a second
         'requests '],
